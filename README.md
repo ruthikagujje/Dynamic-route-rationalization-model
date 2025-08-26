@@ -5,7 +5,7 @@ Problem Statement:- Dynamic route rationalization model based on machine learnin
 PS CODE:- SIH1617
 
 # Tools & Technologies
-Backend: Node.js + Express (API server & business logic)
+Backend: Node.js 
 
 Optimization Engine: Python (Route optimization algorithms & data processing)
 
@@ -13,7 +13,7 @@ WebSocket Library: Socket.IO (real-time updates of route changes)
 
 Database: MongoDB (stores route, vehicle, and logistics data)
 
-Frontend: Vanilla HTML/CSS/JavaScript (interactive route visualization, no frameworks)
+Frontend: HTML/CSS/JavaScript (interactive route visualization, no frameworks)
 
 Development Environment: VS Code (coding, debugging, version control integration)
 
